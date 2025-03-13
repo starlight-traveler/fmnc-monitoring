@@ -168,7 +168,7 @@ The output formats. There are a great many more output formats supported, but th
 
 PCAP files are fully usable in Wireshark, utility files can screen for Block ACKs and other data.
 
-CSV is s generic list of SSIDs and other data that is generally useful, will output as a default.
+CSV is a generic list of SSIDs and other data that is generally useful, will output as a default.
 
 How often we are querying the disk to see how much space is left.
 
