@@ -124,7 +124,8 @@ The python program instruments the airodump process and produces output based on
 
 The python program has the following configuration:
 
-> {
+```
+{
 
     "interface": "mon0",
 
@@ -147,6 +148,7 @@ The python program has the following configuration:
     "space_check_interval": 30
 
 }
+```
 
 The interface is the physical interface attached to iw, so if you want to use the 5 GHz radio change it to mon5
 
