@@ -1,0 +1,16 @@
+{
+    "interface": "mon0",
+    "use_band": true,
+    "band": "false",
+    "channel_hop_time": 2,
+    "duration": "infinite",
+    "output_prefix": "test",
+    "min_free_space_mb": 50,
+    "use_gpsd": false,
+    "output_formats": [
+        "netxml",
+        "pcap",
+        "csv"
+    ],
+    "space_check_interval": 30
+}
